@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ShopRaise is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://shopraise.com/
+ShopRaise enables organizations, charities, schools, teams, clubs, and faith‑based groups to raise funds through everyday online shopping. Users shop at over 2,000 retailers and earn up to 10 % of purchases for their chosen cause at no extra cost. The platform offers a free app, gift‑card options, and integrates with numerous retailers, turning routine purchases into charitable contributions.
+
+**Areas:** Company · Fundraising · E‑commerce · Nonprofit · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://shopraise.com/)
+- [Documentation](https://shopraise.com/about-us)
+- [Getting started](https://shopraise.com/pricing)
+- [API reference](https://shopraise.com/api)
+- [Pricing](https://shopraise.com/pricing)
+- [Support](https://help.shopraise.com/)
+- [Blog](https://shopraise.com/blog)
+- [Terms of service](https://shopraise.com/terms)
+- [Privacy policy](https://shopraise.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/shopraise/](https://apis.io/providers/shopraise/).
